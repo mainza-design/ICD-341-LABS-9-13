@@ -5,7 +5,7 @@
 **School:** Natural and Applied Sciences  
 **Department:** Mathematics and Statistics  
 **Course Code:** ICD 341  
-**Due Date:** October 30, 2026, 23:59 CAT  
+
 
 ---
 
