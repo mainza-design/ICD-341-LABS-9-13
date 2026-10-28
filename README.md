@@ -1,11 +1,5 @@
 # ICD 341 Labs 9-13
 
-**Mulungushi University**
-School of Natural and Applied Sciences
-Department of Mathematics and Statistics
-
-**Due:** 30th October 2026, 23:59
-
 ## Overview
 
 This repository contains solutions to ICD 341 Labs 9-13, a practical series in computational statistics using Python. The labs cover resampling, Bayesian inference, simulation, software engineering practice, and performance tuning.
