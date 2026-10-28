@@ -81,7 +81,7 @@ The laboratory series covers key computational and statistical concepts:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/icd341-labs.git
+   git clone https://github.com/mainza-design/icd341-labs.git
    cd icd341-labs
    ```
 
