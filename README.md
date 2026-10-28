@@ -75,5 +75,5 @@ mypkg/
 
 ## Author
 
-Name: _your name_
-Student number: _your student number_
+Name: _mainza muya _
+Student number: _202406802_
